@@ -1,0 +1,24 @@
+body {
+    color
+}
+
+.jumbotron {
+    background: #694121;
+    color: white;
+    text-align: center;
+}
+
+td,
+th {
+    color: darkblue;
+    padding: 8px;
+}
+
+table {
+    line-height: 2;
+}
+
+.table {
+    color: darkblue;
+}
+
